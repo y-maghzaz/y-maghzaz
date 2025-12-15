@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y-maghzaz
-- 👀 CPO @FeverTokens | Solutions Architect | Smart Contracts | Ethereum | Solidity | AWS | NodeJs | ReactJs | NextJs | Python
+- 👀 Solutions Architect | Smart Contracts | Ethereum | Solidity | AWS | Typescript (React,Next,Deno,Node) | Python
 
 
 
